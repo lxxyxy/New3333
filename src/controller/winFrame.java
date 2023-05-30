@@ -11,7 +11,7 @@ import java.awt.event.ActionListener;
 
 public class winFrame extends JFrame {
     private final int WIDTH=300;
-    private final int HEIGTH=200;
+    private final int HEIGTH=200;///
     public winFrame(PlayerColor playerColor){
         setTitle("胜利"); //设置标题
         setSize(WIDTH, HEIGTH);
